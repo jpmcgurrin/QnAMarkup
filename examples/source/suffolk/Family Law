@@ -1,0 +1,16 @@
+Q(1): Are you married?
+A: Yes.
+	Q(1.1): Do you want to be?
+	A: Yes.
+		Q(1.1.1): Thanks for Stopping By.
+	A: No.
+		Q(1.1.2): Do you want an Annulment or Do you want a divorce?
+		A: Annulment
+			Q(1.1.2.1): Are you either (1) Related, (2) Was either partner underage, (3) Was either partner coerced into marriage?
+			A: Yes.
+				Q(1.1.2.1.1): Great.  Get an Annulment.  Call Joseph McGurrin.
+			A: No.
+				Q(1.1.2.1.2): Sorry, you need to get a divorce instead.  
+		A: Divorce
+		
+A: No.
