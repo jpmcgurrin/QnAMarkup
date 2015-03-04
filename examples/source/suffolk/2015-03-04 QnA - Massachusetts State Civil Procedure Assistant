@@ -1,0 +1,70 @@
+Before: <p><span style="font-weight:900"align="center">Massachusetts State Civil Procedure Assistant</span>
+
+Q(1): What Massachusetts Court are you in?
+A: Supreme Judicial Court (Pending)
+A: Massachusetts Appeal Court (Pending)
+A: Massachusetts Superior Court
+	Q(1.3): What are you filing or serving? or What litigation event would like more information about?
+	A:[http://www.mass.gov/courts/case-legal-res/rules-of-court/] <p><i>Click here for access to Massachusetts Rules of Court and Standing Orders.  Please review rule cited in the Massachusets State Civil Procedure Assistant</i>.</p>  
+	A: Pleading
+		Q(1.3.2): What type of Pleading are you filing or serving?
+		A: Complaint
+			Q(1.3.2.1): Please select category for more information
+			A:  Complaint Filed.
+				Q(1.3.2.1.1): Pursuant to Mass. R. Civ. Pro 3(a), A civil action is commenced by (1) mailing to the clerk of the proper court by certified or registered mail a complaint and an entry fee prescribed by law, or (2) filing such complaint and an entry fee with such clerk.  Per Mass. R. Civ. Pro 4, upon commencing the action the plaintiff or his attorney shall deliver a copy of the complaint for service.
+			A: Complaint Served.
+				Q(1.3.2.1.2): The summons and a copy of the complaint shall be served together. A complaint can be served by the methods in Mass. R. Civ. Pro 4(d).  If service is to be made outside the Commonwealth, parties may serve the summons and complaint per Mass. R. Civ. Pro 4(d) and by any method in Mass. R. Civ. Pro 4(e).
+			A: Deadlines triggered by service of Complaint .
+				Q(1.3.2.1.3): Defendant’s Deadline to Respond to the Complaint is 20 days from service of the complaint (Mass. R. Civ. Pro 12(a)(1), (f)).  The deadline to remove to Federal Court is 30 days from the date of service of the complaint (28 U.S.C. 1446(b)(1)).
+			A: Form.
+				Q(1.3.2.1.4): Please see below for specific form information for all pleadings and motions:  
+				A: <p><span style="font-weight:900">Caption</span>.  Every pleading and motion shall contain a caption setting forth the name of the court, the county, the title of the action, the docket number, and a designation as in Mass. R. Civ. Pro 7(a).  In the complaint, the title of the action shall include the names of all parties.  In other pleadings it is sufficient to state the name of the first party on each side with an appropriate indication of other parties(Mass. R. Civ. Pro 10). 
+				A: <p><span style="font-weight:900">Paragraphs</span>. All averments of claim or defense shall be made in numbered paragraphs.  Each claim founded upon a separate transaction or occurrence and each defense other than denials shall be stated in a separate count or defense(Mass. R. Civ. Pro 10).
+				A: <p><span style="font-weight:900">Parties’ Residence or Place of Business</span>. The complaint, and any subsequent pleading stating a claim against a person not originally a party to the action, shall state the respective residences or usual places of business of the party stating a claim and of each person against whom a claim is stated, if known to the pleader; if unknown, the complaint or pleading shall so state(Mass. R. Civ. Pro 10).
+				A: <p><span style="font-weight:900">Two-Sided Documents</span>. The text of any document may appear on both sides of the page.
+		A: Answer
+			Q(1.3.2.2): Please select category for more information.
+			A: Answer Served.
+				Q(1.3.2.2.1):  Defendant’s Answer must be compliant with form per Mass. R. Civ. Pro 7; 10.  The Answer must be served 20 days after service of the Complaint(Mass. R. Civ. Pro 12(a)(1)). 
+			A: Deadlines triggered by service of Answer.
+				Q(1.3.2.2.2): Plaintiff’s deadline to make motion to strike answer is 20 days after service of the Answer(Mass. R. Civ. Pro 12(f)).  Note, time may be added for method of service per Mass. R. Civ. Pro 6.   Defendant’s deadline to amend Answer is 20 days after service of the Answer(Mass. R. Civ. Pro 12(f)).  Note, time may be added for method of service per Mass. R. Civ. Pro 6
+			A: Form.
+				Q(1.3.2.2.3): Ok. GOTO:1.3.2.1.4 
+		A: Counterclaim
+			Q(1.3.2.3): A Counterclaim can be either compulsory or permissive depending on the nature and source of the claim(Mass. R. Civ. Pro 13)). ):  Counterclaims must be compliant with form per Mass. R. Civ. Pro 7; 10.
+			A: Deadlines triggered by service of Counterclaim.
+				Q(1.3.2.3.1): Plaintiff’s deadline to respond to counterclaim is 20 days after service of the Counterclaim(Mass. R. Civ. Pro 12(a)(1)).  Note, time may be added for method of service per Mass. R. Civ. Pro 6.  
+			A: Form.
+				Q(1.3.2.3.2): Ok. GOTO:1.3.2.1.4 
+		A: Amended Complaint or Answer
+			Q(1.3.2.4): A party may amend his pleading once as a matter of course at any time before a responsive pleading is served and prior to entry of an order of dismissal, or if the pleading is one to which no responsive pleading is permitted and the action has not been placed upon the trial calendar, he may so amend it at any time within 20 days after it is served(Mass. R. Civ. Pro 15(a)). 
+			A: Deadlines triggered by service of Amended Complaint.
+				Q(1.3.2.4.1): Deadline to respond to Amended Complaint is 10 days after service of the Amended Complaint(Mass. R. Civ. Pro 15(a)).  Note, time may be added for method of service per Mass. R. Civ. Pro 6.  
+			A: Form.
+				Q(1.3.2.4.2): Ok. GOTO:1.3.2.1.4 
+	A: Motion
+		Q(1.3.3): What type of Motion are you filing/serving?
+		A: Superior Court Rule 9A Motion
+			Q(1.3.3.1): Typical motion practice in MA Superior court is very unique.  The parties complete the briefing of the motion before filing the completed 9A packet with the court.  Please click on the 9A motion processes and format options below for more information.
+			A: Motions. 
+				Q(1.3.3.1.1): A moving party shall serve with the motion a separate memorandum stating the reasons, including supporting authorities, why the motion should be granted.  Affidavits and other documents shall be served with the motion(MA Superior Court Rule 9A(a)(1)).
+			A: Oppositions to Motions
+			A: Reply and Sur-Reply Memoranda
+			A: Hearing on Motion
+			A: Format
+		A: Emergency Motion
+			Q(1.3.3.2): Content
+		A: Other
+	A: Discovery
+		Q(1.3.4): What type of Discovery are you serving?
+		A: Requests for Production
+			Q(1.3.4.1): CONTENT
+		A: Interrogatories
+			Q(1.3.4.2): CONTENT
+		A: Depositions
+			Q(1.3.4.3): CONTENT
+		A: Requests for Admissions 
+			Q(1.3.4.4): CONTENT
+	A: Judgment
+	A: Trial
+	A: Post/Trial 
